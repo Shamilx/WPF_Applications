@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\bin\Release\WpfApplication13.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\bin\Release\WpfApplication13.exe
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\bin\Release\WpfApplication13.pdb
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\WpfApplication13_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\WpfApplication13.g.resources
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\WpfApplication13.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\WpfApplication13.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\WpfApplication13.exe
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication13\WpfApplication13\obj\Release\WpfApplication13.pdb

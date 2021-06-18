@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\bin\Release\Keyboard_Tester.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\bin\Release\Keyboard_Tester.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\bin\Release\Keyboard_Tester.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\MainWindow.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\App.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\Keyboard_Tester_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\Keyboard_Tester.g.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\Keyboard_Tester.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\Keyboard_Tester.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\Keyboard_Tester.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Keyboard_Tester\Keyboard_Tester\obj\Release\Keyboard_Tester.pdb
