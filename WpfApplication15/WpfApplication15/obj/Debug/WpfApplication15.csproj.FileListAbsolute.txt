@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\bin\Debug\WpfApplication15.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\WpfApplication15.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\WpfApplication15_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\bin\Debug\WpfApplication15.exe
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\bin\Debug\WpfApplication15.pdb
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\WpfApplication15.g.resources
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\WpfApplication15.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\WpfApplication15.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\WpfApplication15.exe
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\WpfApplication15.pdb
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\Colorpicker.baml
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\Colorpicker.g.cs
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication15\WpfApplication15\obj\Debug\WpfApplication15_MarkupCompile.lref
