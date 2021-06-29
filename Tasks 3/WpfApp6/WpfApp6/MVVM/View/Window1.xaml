@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApplication16.MVVM.View.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:material="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:viewModel="clr-namespace:WpfApp6.MVVM.ViewModel"
+        Title="Window1" Height="500" Width="700">
+    <Window.Resources>
+        <viewModel:TimeProviderVm x:Key="Test"/>
+    </Window.Resources>
+
+    <WrapPanel DataContext="{StaticResource Test}">
+
+        <ListView Grid.Column="0" ItemsSource="{Binding Cities}" 
+                  BorderBrush="Black" Width="350" MouseDoubleClick="Control_OnMouseDoubleClick"/>
+        
+        <TextBlock Margin="30" FontSize="50" x:Name="TextBlock1">Time</TextBlock>
+    </WrapPanel>
+</Window>
